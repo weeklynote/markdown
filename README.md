@@ -1,7 +1,9 @@
 # Markdown语法解析
 
 [![Markdown Haroopad](http://pad.haroopress.com/docs/ko/first-release/images/1st-logo.png)](http://pad.haroopress.com/page.html)
+
 下载安装Haroopad，打开软件选择上方菜单栏的视图按钮，即可看到语法支持。
+
 ![screen](https://github.com/liujinjiaer/markdown/blob/master/img/syntax_helper.png?raw=true)
 # 标题
 ```xml
